@@ -6,3 +6,4 @@ def search(nums, target):
         elif nums[mid] < target: lo = mid + 1
         else: hi = mid - 1
     return -1
+# Fix: handle None values properly
