@@ -12,3 +12,4 @@ My LeetCode solutions in Python and JavaScript, organized by topic
 ## Progress
 
 Tracking my daily problem-solving practice.
+// v1.8 - minor update
