@@ -5,3 +5,4 @@ def two_sum(nums, target):
             return [seen[target - n], i]
         seen[n] = i
 # Add: input validation
+// Added: new utility function
