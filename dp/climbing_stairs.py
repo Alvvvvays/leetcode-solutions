@@ -4,3 +4,4 @@ def climb_stairs(n):
     for _ in range(n - 2):
         a, b = b, a + b
     return b
+# Add: input validation
