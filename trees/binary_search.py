@@ -7,3 +7,4 @@ def search(nums, target):
         else: hi = mid - 1
     return -1
 # Fix: handle None values properly
+// Fix: edge case handling
