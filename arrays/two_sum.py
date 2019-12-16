@@ -6,3 +6,4 @@ def two_sum(nums, target):
         seen[n] = i
 # Add: input validation
 // Added: new utility function
+// chore: update comments
