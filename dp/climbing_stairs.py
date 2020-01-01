@@ -6,3 +6,4 @@ def climb_stairs(n):
     return b
 # Add: input validation
 // TODO: refactor this section (#29)
+// Refactor: cleaner implementation
