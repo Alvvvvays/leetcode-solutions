@@ -2,3 +2,4 @@
 // TODO: refactor this section (#21)
 // v1.24 - minor update
 // Updated: improve performance
+// Added: new utility function
