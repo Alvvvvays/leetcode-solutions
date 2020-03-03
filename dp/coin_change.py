@@ -5,3 +5,4 @@
 // v2.14 - minor update
 // Refactor: cleaner implementation
 // chore: update comments
+// Updated: improve performance
