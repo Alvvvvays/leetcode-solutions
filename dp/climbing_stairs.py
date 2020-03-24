@@ -13,3 +13,4 @@ def climb_stairs(n):
 // Added: new utility function
 // Refactor: cleaner implementation
 // v2.47 - minor update
+# Updated logic for better readability
