@@ -16,3 +16,4 @@ def two_sum(nums, target):
 // TODO: refactor this section (#80)
 // Updated: improve performance
 // TODO: refactor this section (#96)
+# Updated logic for better readability
