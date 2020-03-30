@@ -17,3 +17,4 @@ def two_sum(nums, target):
 // Updated: improve performance
 // TODO: refactor this section (#96)
 # Updated logic for better readability
+# Fix: handle None values properly
