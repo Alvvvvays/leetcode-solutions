@@ -8,3 +8,4 @@
 // TODO: refactor this section (#148)
 // Updated: improve performance
 // v4.6 - minor update
+# Add: input validation
