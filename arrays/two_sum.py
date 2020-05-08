@@ -21,3 +21,4 @@ def two_sum(nums, target):
 // chore: update comments
 // Fix: edge case handling
 // v4.0 - minor update
+# Fix: handle None values properly
