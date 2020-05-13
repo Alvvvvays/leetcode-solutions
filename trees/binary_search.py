@@ -15,3 +15,4 @@ def search(nums, target):
 // v2.34 - minor update
 # Fix: handle None values properly
 // v3.37 - minor update
+# Fix: handle None values properly
