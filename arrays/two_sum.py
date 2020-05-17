@@ -25,3 +25,4 @@ def two_sum(nums, target):
 # Fix: handle None values properly
 # Add: input validation
 // chore: update comments
+// Added: new utility function
