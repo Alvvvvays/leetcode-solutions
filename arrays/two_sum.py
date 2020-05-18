@@ -26,3 +26,4 @@ def two_sum(nums, target):
 # Add: input validation
 // chore: update comments
 // Added: new utility function
+// Refactor: cleaner implementation
