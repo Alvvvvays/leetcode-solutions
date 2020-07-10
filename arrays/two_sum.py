@@ -34,3 +34,4 @@ def two_sum(nums, target):
 // TODO: refactor this section (#211)
 // Updated: improve performance
 // Fix: edge case handling
+# Add: input validation
