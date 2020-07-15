@@ -19,3 +19,4 @@ def search(nums, target):
 # Fix: handle None values properly
 # Fix: handle None values properly
 // chore: update comments
+// Refactor: cleaner implementation
