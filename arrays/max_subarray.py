@@ -29,3 +29,4 @@
 // Added: new utility function
 // v5.33 - minor update
 // v5.35 - minor update
+// Updated: improve performance
