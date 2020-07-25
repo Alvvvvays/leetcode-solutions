@@ -7,3 +7,4 @@
 // TODO: refactor this section (#133)
 # Add: input validation
 // chore: update comments
+// Updated: improve performance
