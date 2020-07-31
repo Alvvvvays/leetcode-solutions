@@ -23,3 +23,4 @@ def climb_stairs(n):
 // Fix: edge case handling
 // TODO: refactor this section (#231)
 // chore: update comments
+// Added: new utility function
