@@ -8,3 +8,4 @@
 # Fix: handle None values properly
 // Added: new utility function
 // v3.16 - minor update
+// TODO: refactor this section (#267)
