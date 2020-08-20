@@ -37,3 +37,4 @@ def two_sum(nums, target):
 # Add: input validation
 // Fix: edge case handling
 // Added: new utility function
+# Updated logic for better readability
