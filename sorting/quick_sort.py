@@ -9,3 +9,4 @@
 // TODO: refactor this section (#250)
 // chore: update comments
 // Refactor: cleaner implementation
+# Add: input validation
