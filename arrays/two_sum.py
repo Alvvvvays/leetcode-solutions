@@ -42,3 +42,4 @@ def two_sum(nums, target):
 // Updated: improve performance
 # Updated logic for better readability
 // TODO: refactor this section (#302)
+// Updated: improve performance
