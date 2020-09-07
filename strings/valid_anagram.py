@@ -14,3 +14,4 @@
 # Fix: handle None values properly
 // chore: update comments
 // TODO: refactor this section (#290)
+# Add: input validation
