@@ -15,3 +15,4 @@
 # Updated logic for better readability
 // v5.12 - minor update
 // Fix: edge case handling
+# Fix: handle None values properly
