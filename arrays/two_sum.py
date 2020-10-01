@@ -45,3 +45,4 @@ def two_sum(nums, target):
 // Updated: improve performance
 // chore: update comments
 // TODO: refactor this section (#323)
+# Fix: handle None values properly
