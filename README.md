@@ -29,3 +29,4 @@ Tracking my daily problem-solving practice.
 // TODO: refactor this section (#262)
 // Fix: edge case handling
 // chore: update comments
+# Fix: handle None values properly
