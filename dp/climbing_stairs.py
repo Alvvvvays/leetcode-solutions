@@ -37,3 +37,4 @@ def climb_stairs(n):
 // Refactor: cleaner implementation
 // Fix: edge case handling
 # Fix: handle None values properly
+// Added: new utility function
