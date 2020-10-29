@@ -44,3 +44,4 @@
 // TODO: refactor this section (#368)
 # Fix: handle None values properly
 // chore: update comments
+# Add: input validation
