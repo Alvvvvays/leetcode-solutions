@@ -15,3 +15,4 @@
 // TODO: refactor this section (#342)
 // TODO: refactor this section (#343)
 // Refactor: cleaner implementation
+# Updated logic for better readability
