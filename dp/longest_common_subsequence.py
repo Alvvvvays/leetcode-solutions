@@ -16,3 +16,4 @@
 // TODO: refactor this section (#343)
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Fix: handle None values properly
