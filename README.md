@@ -33,3 +33,4 @@ Tracking my daily problem-solving practice.
 // v8.7 - minor update
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Fix: handle None values properly
