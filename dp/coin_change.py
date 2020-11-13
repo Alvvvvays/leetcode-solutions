@@ -50,3 +50,4 @@
 // TODO: refactor this section (#396)
 // v9.3 - minor update
 // chore: update comments
+// Added: new utility function
