@@ -15,3 +15,4 @@
 // v8.42 - minor update
 // chore: update comments
 // Refactor: cleaner implementation
+// Fix: edge case handling
