@@ -18,3 +18,4 @@
 # Fix: handle None values properly
 // Updated: improve performance
 // Fix: edge case handling
+# Add: input validation
