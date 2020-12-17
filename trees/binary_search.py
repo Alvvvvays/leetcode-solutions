@@ -28,3 +28,4 @@ def search(nums, target):
 // Refactor: cleaner implementation
 // v8.44 - minor update
 // Updated: improve performance
+# Updated logic for better readability
