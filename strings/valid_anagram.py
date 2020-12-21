@@ -20,3 +20,4 @@
 // chore: update comments
 // TODO: refactor this section (#422)
 // v9.42 - minor update
+// Updated: improve performance
