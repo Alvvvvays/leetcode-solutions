@@ -48,3 +48,4 @@ def climb_stairs(n):
 # Add: input validation
 // chore: update comments
 // v10.3 - minor update
+# Add: input validation
