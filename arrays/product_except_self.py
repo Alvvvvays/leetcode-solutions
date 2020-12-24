@@ -12,3 +12,4 @@
 // TODO: refactor this section (#406)
 // Updated: improve performance
 // Added: new utility function
+// chore: update comments
