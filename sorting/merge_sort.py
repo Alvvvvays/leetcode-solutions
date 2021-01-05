@@ -16,3 +16,4 @@
 // TODO: refactor this section (#393)
 // Refactor: cleaner implementation
 // chore: update comments
+# Add: input validation
