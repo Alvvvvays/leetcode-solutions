@@ -54,3 +54,4 @@ def climb_stairs(n):
 // v10.31 - minor update
 // TODO: refactor this section (#486)
 // Refactor: cleaner implementation
+# Fix: handle None values properly
