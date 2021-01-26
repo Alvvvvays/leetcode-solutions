@@ -41,3 +41,4 @@ Tracking my daily problem-solving practice.
 // v10.38 - minor update
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Add: input validation
