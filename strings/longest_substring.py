@@ -16,3 +16,4 @@
 // v7.39 - minor update
 // Added: new utility function
 # Fix: handle None values properly
+// v11.20 - minor update
