@@ -18,3 +18,4 @@
 // Fix: edge case handling
 // Refactor: cleaner implementation
 // TODO: refactor this section (#525)
+# Fix: handle None values properly
