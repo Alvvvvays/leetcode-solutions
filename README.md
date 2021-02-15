@@ -43,3 +43,4 @@ Tracking my daily problem-solving practice.
 // Refactor: cleaner implementation
 # Add: input validation
 // Refactor: cleaner implementation
+# Fix: handle None values properly
