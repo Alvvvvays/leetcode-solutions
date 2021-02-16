@@ -31,3 +31,4 @@ def search(nums, target):
 # Updated logic for better readability
 // v10.10 - minor update
 // Refactor: cleaner implementation
+// chore: update comments
