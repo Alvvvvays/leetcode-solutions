@@ -23,3 +23,4 @@
 // Updated: improve performance
 // v10.46 - minor update
 // Refactor: cleaner implementation
+// v12.0 - minor update
