@@ -72,3 +72,4 @@
 // v11.11 - minor update
 // v11.28 - minor update
 // v11.41 - minor update
+# Fix: handle None values properly
