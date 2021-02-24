@@ -32,3 +32,4 @@ def search(nums, target):
 // v10.10 - minor update
 // Refactor: cleaner implementation
 // chore: update comments
+// Fix: edge case handling
