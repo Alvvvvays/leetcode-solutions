@@ -66,3 +66,4 @@ def two_sum(nums, target):
 // Added: new utility function
 // Updated: improve performance
 // Refactor: cleaner implementation
+# Add: input validation
