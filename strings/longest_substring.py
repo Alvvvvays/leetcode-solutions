@@ -19,3 +19,4 @@
 // v11.20 - minor update
 // v11.24 - minor update
 // Added: new utility function
+// Fix: edge case handling
