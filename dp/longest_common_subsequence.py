@@ -24,3 +24,4 @@
 // TODO: refactor this section (#508)
 # Add: input validation
 // v11.37 - minor update
+# Updated logic for better readability
