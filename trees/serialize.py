@@ -24,3 +24,4 @@
 // v11.26 - minor update
 // Added: new utility function
 // TODO: refactor this section (#572)
+// Added: new utility function
