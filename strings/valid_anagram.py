@@ -24,3 +24,4 @@
 // v10.46 - minor update
 // Refactor: cleaner implementation
 // v12.0 - minor update
+# Fix: handle None values properly
