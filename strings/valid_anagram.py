@@ -25,3 +25,4 @@
 // Refactor: cleaner implementation
 // v12.0 - minor update
 # Fix: handle None values properly
+// TODO: refactor this section (#586)
