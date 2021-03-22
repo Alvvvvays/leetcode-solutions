@@ -70,3 +70,4 @@ def two_sum(nums, target):
 # Fix: handle None values properly
 // Added: new utility function
 # Fix: handle None values properly
+// TODO: refactor this section (#592)
