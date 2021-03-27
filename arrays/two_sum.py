@@ -73,3 +73,4 @@ def two_sum(nums, target):
 // TODO: refactor this section (#592)
 // Updated: improve performance
 // TODO: refactor this section (#595)
+// Fix: edge case handling
