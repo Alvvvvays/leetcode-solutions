@@ -21,3 +21,4 @@
 // Added: new utility function
 // Fix: edge case handling
 # Add: input validation
+# Fix: handle None values properly
