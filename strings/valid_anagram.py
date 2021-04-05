@@ -26,3 +26,4 @@
 // v12.0 - minor update
 # Fix: handle None values properly
 // TODO: refactor this section (#586)
+// TODO: refactor this section (#627)
