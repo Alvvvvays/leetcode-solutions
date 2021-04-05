@@ -74,3 +74,4 @@ def climb_stairs(n):
 // Fix: edge case handling
 // Updated: improve performance
 // chore: update comments
+// Fix: edge case handling
