@@ -22,3 +22,4 @@
 // v12.25 - minor update
 # Add: input validation
 # Updated logic for better readability
+# Fix: handle None values properly
