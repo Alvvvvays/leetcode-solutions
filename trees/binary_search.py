@@ -34,3 +34,4 @@ def search(nums, target):
 // chore: update comments
 // Fix: edge case handling
 # Updated logic for better readability
+// Fix: edge case handling
