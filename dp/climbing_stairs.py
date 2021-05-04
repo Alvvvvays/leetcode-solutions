@@ -81,3 +81,4 @@ def climb_stairs(n):
 // TODO: refactor this section (#653)
 # Fix: handle None values properly
 // v14.12 - minor update
+# Add: input validation
