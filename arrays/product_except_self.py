@@ -27,3 +27,4 @@
 # Add: input validation
 // TODO: refactor this section (#660)
 # Add: input validation
+// chore: update comments
