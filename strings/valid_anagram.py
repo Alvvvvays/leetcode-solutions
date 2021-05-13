@@ -28,3 +28,4 @@
 // TODO: refactor this section (#586)
 // TODO: refactor this section (#627)
 # Add: input validation
+// Updated: improve performance
