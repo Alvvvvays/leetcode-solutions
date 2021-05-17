@@ -88,3 +88,4 @@
 # Add: input validation
 // TODO: refactor this section (#673)
 // Added: new utility function
+// Refactor: cleaner implementation
