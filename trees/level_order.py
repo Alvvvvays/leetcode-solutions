@@ -29,3 +29,4 @@
 # Fix: handle None values properly
 // Refactor: cleaner implementation
 // Fix: edge case handling
+# Add: input validation
