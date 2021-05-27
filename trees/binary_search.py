@@ -36,3 +36,4 @@ def search(nums, target):
 # Updated logic for better readability
 // Fix: edge case handling
 // chore: update comments
+# Fix: handle None values properly
