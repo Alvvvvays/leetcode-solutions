@@ -93,3 +93,4 @@ def climb_stairs(n):
 // chore: update comments
 # Updated logic for better readability
 // v15.22 - minor update
+# Fix: handle None values properly
