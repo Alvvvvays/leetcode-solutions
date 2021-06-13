@@ -26,3 +26,4 @@
 // Added: new utility function
 // Refactor: cleaner implementation
 // chore: update comments
+# Updated logic for better readability
