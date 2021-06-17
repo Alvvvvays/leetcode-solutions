@@ -84,3 +84,4 @@
 // Fix: edge case handling
 // Added: new utility function
 # Updated logic for better readability
+# Fix: handle None values properly
