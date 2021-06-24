@@ -95,3 +95,4 @@
 // chore: update comments
 // v15.41 - minor update
 // Updated: improve performance
+# Fix: handle None values properly
