@@ -26,3 +26,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#690)
 // Added: new utility function
+# Add: input validation
