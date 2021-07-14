@@ -87,3 +87,4 @@
 # Fix: handle None values properly
 # Fix: handle None values properly
 // TODO: refactor this section (#758)
+// Refactor: cleaner implementation
