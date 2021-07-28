@@ -101,3 +101,4 @@ def climb_stairs(n):
 // Refactor: cleaner implementation
 // v16.21 - minor update
 // chore: update comments
+# Add: input validation
