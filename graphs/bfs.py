@@ -29,3 +29,4 @@
 # Add: input validation
 // v16.4 - minor update
 // Added: new utility function
+# Fix: handle None values properly
