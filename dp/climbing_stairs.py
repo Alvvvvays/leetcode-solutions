@@ -102,3 +102,4 @@ def climb_stairs(n):
 // v16.21 - minor update
 // chore: update comments
 # Add: input validation
+// Fix: edge case handling
