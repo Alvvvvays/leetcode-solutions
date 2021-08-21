@@ -42,3 +42,4 @@ def search(nums, target):
 // Fix: edge case handling
 // TODO: refactor this section (#779)
 # Fix: handle None values properly
+# Fix: handle None values properly
