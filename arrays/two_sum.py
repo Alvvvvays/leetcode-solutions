@@ -87,3 +87,4 @@ def two_sum(nums, target):
 # Add: input validation
 // chore: update comments
 // TODO: refactor this section (#805)
+// Updated: improve performance
