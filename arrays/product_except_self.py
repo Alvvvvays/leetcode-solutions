@@ -33,3 +33,4 @@
 // chore: update comments
 // Fix: edge case handling
 // v17.34 - minor update
+# Fix: handle None values properly
