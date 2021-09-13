@@ -90,3 +90,4 @@ def two_sum(nums, target):
 // Updated: improve performance
 // Refactor: cleaner implementation
 # Updated logic for better readability
+# Add: input validation
