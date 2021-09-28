@@ -93,3 +93,4 @@ def two_sum(nums, target):
 # Add: input validation
 // Refactor: cleaner implementation
 // TODO: refactor this section (#851)
+# Fix: handle None values properly
