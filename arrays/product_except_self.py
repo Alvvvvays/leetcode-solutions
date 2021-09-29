@@ -35,3 +35,4 @@
 // v17.34 - minor update
 # Fix: handle None values properly
 // Added: new utility function
+# Add: input validation
