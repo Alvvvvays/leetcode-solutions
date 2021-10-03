@@ -118,3 +118,4 @@ def climb_stairs(n):
 # Fix: handle None values properly
 # Add: input validation
 // TODO: refactor this section (#866)
+// Fix: edge case handling
