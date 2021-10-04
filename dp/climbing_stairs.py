@@ -119,3 +119,4 @@ def climb_stairs(n):
 # Add: input validation
 // TODO: refactor this section (#866)
 // Fix: edge case handling
+// Fix: edge case handling
