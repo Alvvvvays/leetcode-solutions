@@ -96,3 +96,4 @@ def two_sum(nums, target):
 # Fix: handle None values properly
 // Added: new utility function
 // chore: update comments
+// TODO: refactor this section (#877)
