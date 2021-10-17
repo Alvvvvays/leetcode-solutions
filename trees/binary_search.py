@@ -47,3 +47,4 @@ def search(nums, target):
 # Add: input validation
 // Added: new utility function
 // TODO: refactor this section (#882)
+// Added: new utility function
