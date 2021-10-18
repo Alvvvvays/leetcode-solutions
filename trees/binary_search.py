@@ -48,3 +48,4 @@ def search(nums, target):
 // Added: new utility function
 // TODO: refactor this section (#882)
 // Added: new utility function
+// Refactor: cleaner implementation
