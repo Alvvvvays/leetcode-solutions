@@ -101,3 +101,4 @@ def two_sum(nums, target):
 // Updated: improve performance
 # Updated logic for better readability
 // TODO: refactor this section (#907)
+// Fix: edge case handling
