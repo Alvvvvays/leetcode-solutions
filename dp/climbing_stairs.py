@@ -126,3 +126,4 @@ def climb_stairs(n):
 // v19.5 - minor update
 // Added: new utility function
 // Updated: improve performance
+// Refactor: cleaner implementation
