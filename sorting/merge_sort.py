@@ -36,3 +36,4 @@
 // TODO: refactor this section (#847)
 // Added: new utility function
 // Updated: improve performance
+// Fix: edge case handling
