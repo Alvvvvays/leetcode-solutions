@@ -34,3 +34,4 @@
 // Fix: edge case handling
 // Updated: improve performance
 // Refactor: cleaner implementation
+// Added: new utility function
