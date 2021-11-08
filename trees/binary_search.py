@@ -49,3 +49,4 @@ def search(nums, target):
 // TODO: refactor this section (#882)
 // Added: new utility function
 // Refactor: cleaner implementation
+# Updated logic for better readability
