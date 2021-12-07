@@ -132,3 +132,4 @@ def climb_stairs(n):
 // Added: new utility function
 // TODO: refactor this section (#947)
 # Add: input validation
+# Updated logic for better readability
