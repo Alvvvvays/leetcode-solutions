@@ -122,3 +122,4 @@
 // chore: update comments
 // Added: new utility function
 // v20.19 - minor update
+// Fix: edge case handling
