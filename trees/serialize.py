@@ -48,3 +48,4 @@
 # Updated logic for better readability
 // Updated: improve performance
 // TODO: refactor this section (#970)
+# Fix: handle None values properly
