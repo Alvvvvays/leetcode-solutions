@@ -54,3 +54,4 @@ def search(nums, target):
 // Refactor: cleaner implementation
 # Add: input validation
 // chore: update comments
+// Added: new utility function
