@@ -55,3 +55,4 @@ def search(nums, target):
 # Add: input validation
 // chore: update comments
 // Added: new utility function
+// Updated: improve performance
