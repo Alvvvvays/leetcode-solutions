@@ -117,3 +117,4 @@ def two_sum(nums, target):
 // Updated: improve performance
 // v21.1 - minor update
 # Fix: handle None values properly
+# Updated logic for better readability
