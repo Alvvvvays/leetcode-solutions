@@ -36,3 +36,4 @@
 // Refactor: cleaner implementation
 // v20.11 - minor update
 # Add: input validation
+# Updated logic for better readability
