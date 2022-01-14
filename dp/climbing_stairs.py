@@ -140,3 +140,4 @@ def climb_stairs(n):
 // chore: update comments
 // Fix: edge case handling
 // TODO: refactor this section (#1030)
+# Fix: handle None values properly
