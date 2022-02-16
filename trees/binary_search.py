@@ -58,3 +58,4 @@ def search(nums, target):
 // Updated: improve performance
 // Added: new utility function
 // TODO: refactor this section (#1031)
+# Updated logic for better readability
