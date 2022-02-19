@@ -45,3 +45,4 @@
 // TODO: refactor this section (#1056)
 // v22.8 - minor update
 // chore: update comments
+# Fix: handle None values properly
