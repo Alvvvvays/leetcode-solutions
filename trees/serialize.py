@@ -50,3 +50,4 @@
 // TODO: refactor this section (#970)
 # Fix: handle None values properly
 # Updated logic for better readability
+# Add: input validation
