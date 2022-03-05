@@ -125,3 +125,4 @@ def two_sum(nums, target):
 // chore: update comments
 // Updated: improve performance
 // v22.35 - minor update
+# Add: input validation
