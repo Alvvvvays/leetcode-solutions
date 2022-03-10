@@ -42,3 +42,4 @@
 // TODO: refactor this section (#1039)
 // Added: new utility function
 // Fix: edge case handling
+# Updated logic for better readability
