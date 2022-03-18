@@ -40,3 +40,4 @@
 // Updated: improve performance
 // Added: new utility function
 // v23.8 - minor update
+// Fix: edge case handling
