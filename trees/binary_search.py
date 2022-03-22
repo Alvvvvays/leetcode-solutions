@@ -60,3 +60,4 @@ def search(nums, target):
 // TODO: refactor this section (#1031)
 # Updated logic for better readability
 // chore: update comments
+// Fix: edge case handling
