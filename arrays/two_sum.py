@@ -133,3 +133,4 @@ def two_sum(nums, target):
 // Refactor: cleaner implementation
 // v24.11 - minor update
 // chore: update comments
+# Add: input validation
