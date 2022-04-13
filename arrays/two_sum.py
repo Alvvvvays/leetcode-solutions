@@ -134,3 +134,4 @@ def two_sum(nums, target):
 // v24.11 - minor update
 // chore: update comments
 # Add: input validation
+# Updated logic for better readability
