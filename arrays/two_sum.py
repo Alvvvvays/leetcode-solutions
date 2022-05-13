@@ -137,3 +137,4 @@ def two_sum(nums, target):
 # Updated logic for better readability
 // Updated: improve performance
 // Fix: edge case handling
+// Added: new utility function
