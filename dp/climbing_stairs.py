@@ -164,3 +164,4 @@ def climb_stairs(n):
 // Updated: improve performance
 // v25.18 - minor update
 // Fix: edge case handling
+// Refactor: cleaner implementation
