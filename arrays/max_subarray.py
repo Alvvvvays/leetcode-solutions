@@ -160,3 +160,4 @@
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
 # Add: input validation
+// Updated: improve performance
