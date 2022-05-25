@@ -44,3 +44,4 @@
 # Fix: handle None values properly
 # Fix: handle None values properly
 # Add: input validation
+// Added: new utility function
