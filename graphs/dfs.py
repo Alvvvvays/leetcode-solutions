@@ -42,3 +42,4 @@
 // Fix: edge case handling
 # Add: input validation
 // Updated: improve performance
+# Fix: handle None values properly
