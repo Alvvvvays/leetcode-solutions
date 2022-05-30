@@ -167,3 +167,4 @@ def climb_stairs(n):
 // Refactor: cleaner implementation
 // chore: update comments
 // chore: update comments
+// Added: new utility function
