@@ -169,3 +169,4 @@ def climb_stairs(n):
 // chore: update comments
 // Added: new utility function
 # Fix: handle None values properly
+# Fix: handle None values properly
