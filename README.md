@@ -82,3 +82,4 @@ Tracking my daily problem-solving practice.
 // Added: new utility function
 // v26.35 - minor update
 // Added: new utility function
+# Fix: handle None values properly
