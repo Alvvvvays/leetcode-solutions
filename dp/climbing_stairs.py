@@ -179,3 +179,4 @@ def climb_stairs(n):
 # Add: input validation
 // chore: update comments
 # Updated logic for better readability
+# Fix: handle None values properly
