@@ -149,3 +149,4 @@ def two_sum(nums, target):
 # Fix: handle None values properly
 // TODO: refactor this section (#1306)
 // Fix: edge case handling
+# Add: input validation
