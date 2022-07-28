@@ -183,3 +183,4 @@ def climb_stairs(n):
 # Updated logic for better readability
 // v27.29 - minor update
 # Add: input validation
+# Add: input validation
