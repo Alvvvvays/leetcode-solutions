@@ -52,3 +52,4 @@
 // TODO: refactor this section (#1271)
 // chore: update comments
 // chore: update comments
+// Updated: improve performance
