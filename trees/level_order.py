@@ -57,3 +57,4 @@
 // v26.17 - minor update
 // chore: update comments
 // TODO: refactor this section (#1364)
+# Fix: handle None values properly
