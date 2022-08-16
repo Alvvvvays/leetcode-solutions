@@ -155,3 +155,4 @@ def two_sum(nums, target):
 // Added: new utility function
 // Updated: improve performance
 // chore: update comments
+# Add: input validation
