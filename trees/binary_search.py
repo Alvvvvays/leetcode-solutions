@@ -74,3 +74,4 @@ def search(nums, target):
 # Fix: handle None values properly
 // Added: new utility function
 # Add: input validation
+# Updated logic for better readability
