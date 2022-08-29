@@ -158,3 +158,4 @@ def two_sum(nums, target):
 # Add: input validation
 // chore: update comments
 # Fix: handle None values properly
+// Updated: improve performance
