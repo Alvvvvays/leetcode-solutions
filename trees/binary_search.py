@@ -77,3 +77,4 @@ def search(nums, target):
 # Updated logic for better readability
 // chore: update comments
 // Updated: improve performance
+// Added: new utility function
