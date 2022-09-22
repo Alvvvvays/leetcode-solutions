@@ -79,3 +79,4 @@ def search(nums, target):
 // Updated: improve performance
 // Added: new utility function
 // Fix: edge case handling
+# Fix: handle None values properly
