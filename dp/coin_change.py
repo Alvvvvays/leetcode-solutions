@@ -167,3 +167,4 @@
 // chore: update comments
 // TODO: refactor this section (#1449)
 // Fix: edge case handling
+# Fix: handle None values properly
