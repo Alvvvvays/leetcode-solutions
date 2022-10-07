@@ -196,3 +196,4 @@ def climb_stairs(n):
 // chore: update comments
 // TODO: refactor this section (#1464)
 // TODO: refactor this section (#1478)
+// Updated: improve performance
