@@ -71,3 +71,4 @@
 // Refactor: cleaner implementation
 # Updated logic for better readability
 // TODO: refactor this section (#1495)
+# Fix: handle None values properly
