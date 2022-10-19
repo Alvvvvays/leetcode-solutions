@@ -58,3 +58,4 @@
 // v27.17 - minor update
 // Refactor: cleaner implementation
 // Fix: edge case handling
+# Fix: handle None values properly
