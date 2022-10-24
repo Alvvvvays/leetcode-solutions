@@ -82,3 +82,4 @@ def search(nums, target):
 # Fix: handle None values properly
 // v30.2 - minor update
 // TODO: refactor this section (#1501)
+# Add: input validation
