@@ -189,3 +189,4 @@
 // TODO: refactor this section (#1525)
 # Add: input validation
 // TODO: refactor this section (#1537)
+# Fix: handle None values properly
