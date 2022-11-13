@@ -59,3 +59,4 @@
 // Refactor: cleaner implementation
 // Fix: edge case handling
 # Fix: handle None values properly
+# Add: input validation
