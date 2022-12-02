@@ -209,3 +209,4 @@ def climb_stairs(n):
 // chore: update comments
 # Updated logic for better readability
 // TODO: refactor this section (#1578)
+// Added: new utility function
