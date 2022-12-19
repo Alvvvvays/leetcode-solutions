@@ -84,3 +84,4 @@ def search(nums, target):
 // TODO: refactor this section (#1501)
 # Add: input validation
 // TODO: refactor this section (#1533)
+// TODO: refactor this section (#1598)
