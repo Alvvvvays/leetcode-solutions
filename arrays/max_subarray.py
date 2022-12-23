@@ -196,3 +196,4 @@
 // v32.3 - minor update
 // Added: new utility function
 // chore: update comments
+// Fix: edge case handling
