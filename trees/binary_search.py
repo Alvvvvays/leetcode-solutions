@@ -86,3 +86,4 @@ def search(nums, target):
 // TODO: refactor this section (#1533)
 // TODO: refactor this section (#1598)
 // chore: update comments
+// Refactor: cleaner implementation
