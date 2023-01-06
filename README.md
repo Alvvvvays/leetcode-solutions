@@ -96,3 +96,4 @@ Tracking my daily problem-solving practice.
 # Add: input validation
 // v33.5 - minor update
 // chore: update comments
+# Fix: handle None values properly
