@@ -215,3 +215,4 @@ def climb_stairs(n):
 # Add: input validation
 // Added: new utility function
 // v33.21 - minor update
+// Fix: edge case handling
