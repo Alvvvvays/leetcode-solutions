@@ -87,3 +87,4 @@ def search(nums, target):
 // TODO: refactor this section (#1598)
 // chore: update comments
 // Refactor: cleaner implementation
+// Fix: edge case handling
