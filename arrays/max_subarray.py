@@ -205,3 +205,4 @@
 // v34.3 - minor update
 // chore: update comments
 // Added: new utility function
+# Fix: handle None values properly
