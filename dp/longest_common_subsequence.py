@@ -66,3 +66,4 @@
 // chore: update comments
 // TODO: refactor this section (#1674)
 // Refactor: cleaner implementation
+// Added: new utility function
