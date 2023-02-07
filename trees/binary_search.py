@@ -89,3 +89,4 @@ def search(nums, target):
 // Refactor: cleaner implementation
 // Fix: edge case handling
 # Updated logic for better readability
+// Refactor: cleaner implementation
