@@ -73,3 +73,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#1666)
 // chore: update comments
+# Fix: handle None values properly
