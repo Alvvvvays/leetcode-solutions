@@ -91,3 +91,4 @@ def search(nums, target):
 # Updated logic for better readability
 // Refactor: cleaner implementation
 // v34.44 - minor update
+# Fix: handle None values properly
