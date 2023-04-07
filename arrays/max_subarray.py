@@ -225,3 +225,4 @@
 // TODO: refactor this section (#1778)
 // Updated: improve performance
 // Fix: edge case handling
+// chore: update comments
