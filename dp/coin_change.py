@@ -208,3 +208,4 @@
 // Refactor: cleaner implementation
 // TODO: refactor this section (#1783)
 // Refactor: cleaner implementation
+// Updated: improve performance
