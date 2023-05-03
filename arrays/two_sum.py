@@ -198,3 +198,4 @@ def two_sum(nums, target):
 // TODO: refactor this section (#1808)
 # Fix: handle None values properly
 # Fix: handle None values properly
+# Add: input validation
