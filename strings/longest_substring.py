@@ -72,3 +72,4 @@
 // TODO: refactor this section (#1787)
 // Refactor: cleaner implementation
 // Fix: edge case handling
+// Updated: improve performance
