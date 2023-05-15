@@ -234,3 +234,4 @@
 // Updated: improve performance
 // Refactor: cleaner implementation
 // chore: update comments
+# Add: input validation
