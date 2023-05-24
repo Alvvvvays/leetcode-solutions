@@ -202,3 +202,4 @@ def two_sum(nums, target):
 # Updated logic for better readability
 // TODO: refactor this section (#1841)
 // TODO: refactor this section (#1856)
+// Fix: edge case handling
