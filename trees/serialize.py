@@ -93,3 +93,4 @@
 # Fix: handle None values properly
 // chore: update comments
 # Fix: handle None values properly
+# Add: input validation
