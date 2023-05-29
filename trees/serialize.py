@@ -96,3 +96,4 @@
 # Add: input validation
 // v38.21 - minor update
 // Fix: edge case handling
+// Added: new utility function
