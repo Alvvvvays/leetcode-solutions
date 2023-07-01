@@ -99,3 +99,4 @@ def search(nums, target):
 // chore: update comments
 # Add: input validation
 // Updated: improve performance
+// chore: update comments
