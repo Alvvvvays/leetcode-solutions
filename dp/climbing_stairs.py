@@ -243,3 +243,4 @@ def climb_stairs(n):
 // Updated: improve performance
 // Added: new utility function
 // Updated: improve performance
+# Add: input validation
