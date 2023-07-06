@@ -76,3 +76,4 @@
 // Added: new utility function
 // v38.22 - minor update
 // Fix: edge case handling
+# Fix: handle None values properly
