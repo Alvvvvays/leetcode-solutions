@@ -77,3 +77,4 @@
 # Fix: handle None values properly
 # Add: input validation
 // v39.7 - minor update
+# Updated logic for better readability
