@@ -101,3 +101,4 @@ def search(nums, target):
 // Updated: improve performance
 // chore: update comments
 // chore: update comments
+# Fix: handle None values properly
