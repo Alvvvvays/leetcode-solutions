@@ -249,3 +249,4 @@ def climb_stairs(n):
 // Refactor: cleaner implementation
 // Fix: edge case handling
 // TODO: refactor this section (#1965)
+# Fix: handle None values properly
