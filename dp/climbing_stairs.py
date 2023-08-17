@@ -252,3 +252,4 @@ def climb_stairs(n):
 # Fix: handle None values properly
 // v40.25 - minor update
 // Added: new utility function
+// TODO: refactor this section (#1989)
