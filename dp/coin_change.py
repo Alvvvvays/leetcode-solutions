@@ -234,3 +234,4 @@
 // v41.1 - minor update
 // TODO: refactor this section (#2004)
 # Fix: handle None values properly
+# Add: input validation
