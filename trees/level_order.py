@@ -83,3 +83,4 @@
 # Add: input validation
 // TODO: refactor this section (#1969)
 // chore: update comments
+// Refactor: cleaner implementation
