@@ -255,3 +255,4 @@ def climb_stairs(n):
 // TODO: refactor this section (#1989)
 // Added: new utility function
 // chore: update comments
+// Updated: improve performance
