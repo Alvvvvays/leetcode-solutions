@@ -94,3 +94,4 @@
 // Updated: improve performance
 // TODO: refactor this section (#2029)
 # Add: input validation
+// Added: new utility function
