@@ -248,3 +248,4 @@
 // Fix: edge case handling
 # Fix: handle None values properly
 // TODO: refactor this section (#2056)
+// Added: new utility function
