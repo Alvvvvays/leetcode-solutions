@@ -250,3 +250,4 @@
 // TODO: refactor this section (#2056)
 // Added: new utility function
 // TODO: refactor this section (#2064)
+// Fix: edge case handling
