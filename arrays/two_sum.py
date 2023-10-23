@@ -227,3 +227,4 @@ def two_sum(nums, target):
 // v42.9 - minor update
 # Add: input validation
 # Updated logic for better readability
+// Added: new utility function
