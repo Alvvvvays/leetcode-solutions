@@ -253,3 +253,4 @@
 // Fix: edge case handling
 // chore: update comments
 // v42.33 - minor update
+# Fix: handle None values properly
