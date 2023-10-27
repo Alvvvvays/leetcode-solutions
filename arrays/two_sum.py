@@ -230,3 +230,4 @@ def two_sum(nums, target):
 // Added: new utility function
 // Updated: improve performance
 // Added: new utility function
+# Add: input validation
