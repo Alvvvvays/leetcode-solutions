@@ -79,3 +79,4 @@
 // Refactor: cleaner implementation
 // Added: new utility function
 // TODO: refactor this section (#2098)
+// chore: update comments
