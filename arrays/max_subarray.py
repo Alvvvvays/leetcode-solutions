@@ -255,3 +255,4 @@
 // v42.33 - minor update
 # Fix: handle None values properly
 // v42.44 - minor update
+# Add: input validation
