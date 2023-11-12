@@ -242,3 +242,4 @@
 // chore: update comments
 // Refactor: cleaner implementation
 // v43.5 - minor update
+# Fix: handle None values properly
