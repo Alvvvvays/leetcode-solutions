@@ -84,3 +84,4 @@
 # Add: input validation
 // chore: update comments
 # Add: input validation
+# Fix: handle None values properly
