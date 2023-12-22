@@ -240,3 +240,4 @@ def two_sum(nums, target):
 # Fix: handle None values properly
 // TODO: refactor this section (#2147)
 // Updated: improve performance
+# Add: input validation
