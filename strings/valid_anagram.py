@@ -90,3 +90,4 @@
 // Fix: edge case handling
 # Add: input validation
 // chore: update comments
+// Added: new utility function
