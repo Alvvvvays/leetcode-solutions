@@ -121,3 +121,4 @@ Tracking my daily problem-solving practice.
 // v42.42 - minor update
 // Updated: improve performance
 // Updated: improve performance
+# Add: input validation
