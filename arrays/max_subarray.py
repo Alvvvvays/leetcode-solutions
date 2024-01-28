@@ -268,3 +268,4 @@
 // TODO: refactor this section (#2205)
 // chore: update comments
 # Add: input validation
+// Added: new utility function
