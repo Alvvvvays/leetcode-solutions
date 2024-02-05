@@ -110,3 +110,4 @@ def search(nums, target):
 # Fix: handle None values properly
 // Updated: improve performance
 // Updated: improve performance
+# Updated logic for better readability
