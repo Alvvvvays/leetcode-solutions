@@ -89,3 +89,4 @@
 // chore: update comments
 // Updated: improve performance
 // Fix: edge case handling
+# Fix: handle None values properly
