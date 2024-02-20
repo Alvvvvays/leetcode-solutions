@@ -261,3 +261,4 @@
 // Refactor: cleaner implementation
 # Add: input validation
 // v45.34 - minor update
+# Fix: handle None values properly
