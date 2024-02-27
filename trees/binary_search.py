@@ -113,3 +113,4 @@ def search(nums, target):
 # Updated logic for better readability
 // TODO: refactor this section (#2228)
 // Refactor: cleaner implementation
+// Updated: improve performance
