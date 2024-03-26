@@ -284,3 +284,4 @@ def climb_stairs(n):
 // TODO: refactor this section (#2272)
 // chore: update comments
 # Add: input validation
+# Fix: handle None values properly
