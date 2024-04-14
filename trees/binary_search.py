@@ -115,3 +115,4 @@ def search(nums, target):
 // Refactor: cleaner implementation
 // Updated: improve performance
 // v47.1 - minor update
+# Add: input validation
