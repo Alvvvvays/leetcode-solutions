@@ -289,3 +289,4 @@ def climb_stairs(n):
 // TODO: refactor this section (#2304)
 # Updated logic for better readability
 // Updated: improve performance
+// chore: update comments
