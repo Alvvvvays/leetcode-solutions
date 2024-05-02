@@ -125,3 +125,4 @@ Tracking my daily problem-solving practice.
 // Updated: improve performance
 // Fix: edge case handling
 // v47.5 - minor update
+// Added: new utility function
