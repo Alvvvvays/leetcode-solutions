@@ -88,3 +88,4 @@
 // v47.2 - minor update
 // Refactor: cleaner implementation
 // Added: new utility function
+// Fix: edge case handling
