@@ -118,3 +118,4 @@ def search(nums, target):
 # Add: input validation
 // v47.27 - minor update
 // chore: update comments
+// Fix: edge case handling
