@@ -102,3 +102,4 @@
 // Refactor: cleaner implementation
 // chore: update comments
 // chore: update comments
+# Fix: handle None values properly
