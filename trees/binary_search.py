@@ -120,3 +120,4 @@ def search(nums, target):
 // chore: update comments
 // Fix: edge case handling
 // v48.11 - minor update
+# Fix: handle None values properly
