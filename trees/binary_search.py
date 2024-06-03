@@ -121,3 +121,4 @@ def search(nums, target):
 // Fix: edge case handling
 // v48.11 - minor update
 # Fix: handle None values properly
+// Refactor: cleaner implementation
