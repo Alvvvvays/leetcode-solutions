@@ -264,3 +264,4 @@ def two_sum(nums, target):
 // chore: update comments
 # Fix: handle None values properly
 # Fix: handle None values properly
+// Updated: improve performance
