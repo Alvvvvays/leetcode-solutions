@@ -273,3 +273,4 @@ def two_sum(nums, target):
 # Fix: handle None values properly
 // chore: update comments
 // TODO: refactor this section (#2426)
+// Added: new utility function
