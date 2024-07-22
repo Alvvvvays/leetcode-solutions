@@ -302,3 +302,4 @@ def climb_stairs(n):
 # Updated logic for better readability
 // Added: new utility function
 // Refactor: cleaner implementation
+# Fix: handle None values properly
