@@ -278,3 +278,4 @@ def two_sum(nums, target):
 // Fix: edge case handling
 // Refactor: cleaner implementation
 # Add: input validation
+// Added: new utility function
