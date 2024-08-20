@@ -125,3 +125,4 @@ def search(nums, target):
 // chore: update comments
 # Fix: handle None values properly
 // TODO: refactor this section (#2469)
+// TODO: refactor this section (#2471)
