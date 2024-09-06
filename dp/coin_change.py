@@ -284,3 +284,4 @@
 // chore: update comments
 // v50.38 - minor update
 # Updated logic for better readability
+// Added: new utility function
