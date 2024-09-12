@@ -282,3 +282,4 @@ def two_sum(nums, target):
 // TODO: refactor this section (#2461)
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Added: new utility function
