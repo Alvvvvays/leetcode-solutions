@@ -306,3 +306,4 @@
 // Added: new utility function
 // v51.24 - minor update
 # Updated logic for better readability
+// Fix: edge case handling
