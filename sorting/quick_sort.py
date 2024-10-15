@@ -105,3 +105,4 @@
 // TODO: refactor this section (#2520)
 // Fix: edge case handling
 // Refactor: cleaner implementation
+# Fix: handle None values properly
