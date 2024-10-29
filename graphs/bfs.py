@@ -112,3 +112,4 @@
 # Add: input validation
 // v51.48 - minor update
 // Fix: edge case handling
+# Fix: handle None values properly
