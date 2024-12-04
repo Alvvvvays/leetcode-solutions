@@ -131,3 +131,4 @@ def search(nums, target):
 // v51.38 - minor update
 // v51.42 - minor update
 // chore: update comments
+// Fix: edge case handling
