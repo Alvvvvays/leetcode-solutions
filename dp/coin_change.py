@@ -304,3 +304,4 @@
 # Add: input validation
 // TODO: refactor this section (#2623)
 # Add: input validation
+// Refactor: cleaner implementation
