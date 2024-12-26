@@ -142,3 +142,4 @@ Tracking my daily problem-solving practice.
 // Refactor: cleaner implementation
 # Updated logic for better readability
 // chore: update comments
+# Add: input validation
