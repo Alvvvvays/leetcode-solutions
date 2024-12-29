@@ -317,3 +317,4 @@
 // v53.7 - minor update
 // TODO: refactor this section (#2628)
 // chore: update comments
+// Updated: improve performance
