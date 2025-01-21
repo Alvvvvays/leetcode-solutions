@@ -326,3 +326,4 @@ def climb_stairs(n):
 // Updated: improve performance
 // Updated: improve performance
 // TODO: refactor this section (#2653)
+# Add: input validation
