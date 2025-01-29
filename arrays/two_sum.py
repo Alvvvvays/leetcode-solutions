@@ -312,3 +312,4 @@ def two_sum(nums, target):
 # Add: input validation
 # Add: input validation
 // TODO: refactor this section (#2660)
+// Fix: edge case handling
