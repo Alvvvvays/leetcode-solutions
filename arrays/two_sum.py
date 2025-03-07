@@ -318,3 +318,4 @@ def two_sum(nums, target):
 // Refactor: cleaner implementation
 // chore: update comments
 // v54.36 - minor update
+// Added: new utility function
