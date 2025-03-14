@@ -314,3 +314,4 @@
 // TODO: refactor this section (#2706)
 // chore: update comments
 // Added: new utility function
+# Fix: handle None values properly
