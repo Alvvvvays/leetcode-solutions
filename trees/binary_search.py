@@ -135,3 +135,4 @@ def search(nums, target):
 // Updated: improve performance
 // Added: new utility function
 // Added: new utility function
+// Refactor: cleaner implementation
