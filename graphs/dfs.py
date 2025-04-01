@@ -105,3 +105,4 @@
 // TODO: refactor this section (#2702)
 # Fix: handle None values properly
 // Refactor: cleaner implementation
+# Add: input validation
