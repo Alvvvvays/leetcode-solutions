@@ -324,3 +324,4 @@ def two_sum(nums, target):
 // TODO: refactor this section (#2735)
 // TODO: refactor this section (#2737)
 // Updated: improve performance
+# Add: input validation
