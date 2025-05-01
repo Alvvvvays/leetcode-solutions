@@ -338,3 +338,4 @@ def climb_stairs(n):
 // Updated: improve performance
 // v56.10 - minor update
 # Fix: handle None values properly
+# Add: input validation
