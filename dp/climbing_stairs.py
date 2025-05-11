@@ -342,3 +342,4 @@ def climb_stairs(n):
 // chore: update comments
 // v56.24 - minor update
 // Updated: improve performance
+# Add: input validation
