@@ -113,3 +113,4 @@
 # Add: input validation
 // v56.28 - minor update
 # Updated logic for better readability
+# Fix: handle None values properly
