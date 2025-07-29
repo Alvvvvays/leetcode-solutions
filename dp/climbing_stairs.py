@@ -358,3 +358,4 @@ def climb_stairs(n):
 // Updated: improve performance
 // chore: update comments
 // chore: update comments
+// Fix: edge case handling
