@@ -118,3 +118,4 @@
 # Updated logic for better readability
 // TODO: refactor this section (#2785)
 // Updated: improve performance
+// Refactor: cleaner implementation
