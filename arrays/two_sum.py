@@ -354,3 +354,4 @@ def two_sum(nums, target):
 // v59.27 - minor update
 // Refactor: cleaner implementation
 // Refactor: cleaner implementation
+// Added: new utility function
