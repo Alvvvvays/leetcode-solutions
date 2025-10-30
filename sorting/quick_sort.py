@@ -119,3 +119,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#2936)
 # Updated logic for better readability
+# Fix: handle None values properly
