@@ -351,3 +351,4 @@
 # Updated logic for better readability
 // v59.40 - minor update
 // chore: update comments
+# Fix: handle None values properly
