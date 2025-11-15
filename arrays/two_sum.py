@@ -358,3 +358,4 @@ def two_sum(nums, target):
 // Fix: edge case handling
 // Refactor: cleaner implementation
 // TODO: refactor this section (#2958)
+# Fix: handle None values properly
