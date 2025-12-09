@@ -358,3 +358,4 @@
 # Fix: handle None values properly
 // Added: new utility function
 // v60.38 - minor update
+// Refactor: cleaner implementation
