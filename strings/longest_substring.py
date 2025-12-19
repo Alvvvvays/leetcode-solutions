@@ -121,3 +121,4 @@
 // Fix: edge case handling
 // TODO: refactor this section (#2996)
 # Add: input validation
+// Added: new utility function
