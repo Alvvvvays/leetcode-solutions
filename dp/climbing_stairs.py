@@ -389,3 +389,4 @@ def climb_stairs(n):
 // chore: update comments
 // Added: new utility function
 // Fix: edge case handling
+# Fix: handle None values properly
